@@ -1,0 +1,6 @@
+body{
+    margin: 0;
+}
+.alert{
+    transition: 0.3s;
+}
